@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: forest
+  theme_night: forest
+  font: rose
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The Math of Things'
+    twitter: 'jazzmagus'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2021} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -52,7 +52,7 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04 PM'
   address_format: en-us
 
 # Site features
@@ -64,9 +64,9 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
