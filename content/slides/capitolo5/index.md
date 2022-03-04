@@ -22,8 +22,11 @@ slides:
   <h5 style="color:#8A4117"><em>prof. diego fantinelli</em></h5>
   <p style="color:#8A4117"><em>matematica per il biennio &mdash; classi prime</em></p>
   <p style="font-size:16pt">ITIS "Enrico Fermi" - Bassano del Grappa</p>
-
 </section>
+
+<!-- <section>
+<img class="fragment" src="rettangolo.svg" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
+</section> -->
 
 ---
 <!-- prerequisiti-->
