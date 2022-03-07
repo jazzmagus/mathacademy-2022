@@ -32,7 +32,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 >
 >se diciamo:
 >
-><span style="color:brown">Un qualunque individuo minorenne trovato alla guida di un’auto sta commettendo reato.</em></span>
+><span style="color:orange">Un qualunque individuo minorenne trovato alla guida di un’auto sta commettendo reato.</em></span>
 >
 >- non ci interessa affatto sapere se tale individuo si chiama Andrea o Giovanni, se è biondo o castano, o se l’auto è una FIAT Panda o una Lamborghini.
 >- Ciò che ci interessa è che il soggetto in questione è un **individuo** (cioè un elemento dell’insieme delle persone) minorenne (un elemento dell’insieme delle persone che non ha ancora raggiunto i 18 anni di età) e che si trova alla guida di un auto (un elemento dell’insieme di quei particolari mezzi di trasporto che sono le automobili).
@@ -41,7 +41,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 >
 >- se vogliamo rimanere in ambito matematico, pensiamo alle figure geometriche:
 >
-> - **Area del rettangolo**: $A = a \times b$, con $a$ e $b$, base e altezza;
+> - **Area del rettangolo**: <span style="color:orange">$A = a \times b$</span>, con $a$ e $b$, base e altezza;
 >   - d'ora in poi sarà molto meglio usare il simbolo "$\cdot$" al posto di "$\times$" per indicare la moltiplicazione, proprio perché utilizzeremo spesso la lettere $x$ e si rischierebbe di confonderla.
 > - **Area del quadrato**: $A = l^2$, con $l$ lato del quadrato;
 > - **Area del cerchio**: $A_c = 2\pi \cdot r^2$; questo $2\pi \cdot r^2$ è proprio quello che tra poco chiameremo **monomio**, 

@@ -1,9 +1,9 @@
 ---
 title: Calcolo letterale
 summary: Capitolo 5
-authors: []
-tags: []
-categories: []
+authors: [diego fantinelli]
+tags: [calcolo_letterale]
+categories: [2022, lesson]
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
@@ -14,7 +14,7 @@ slides:
   highlight_style: dracula
 ---
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+{{< slide background-image="pingpong_bkg.jpg" background-opacity="0.6" >}}
 
 <section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">CALCOLO <br> LETTERALE</h2>
@@ -28,9 +28,10 @@ slides:
 <img class="fragment" src="rettangolo.svg" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
 </section> -->
 
----
 <!-- prerequisiti-->
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+---
+
+{{< slide background-image="pingpong_bkg.jpg" background-opacity="0.6" >}}
 
 <section style="font-size:90%" data-transition="convex">
   <h2 style="color:#3B2F2F">Prerequisiti</h2>
@@ -51,18 +52,17 @@ slides:
 
 ---
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?black" >}}
+{{< slide background-image="lightbulb.jpg" background-opacity="0.6" >}}
 
 <section>
   <h3 class="fragment" style="color:#FFFFFF; font-size: 60px;">una riflessione per iniziare...</h3>
-  <h3 class="fragment" style="color:#FFFFFF; font-size: 40px;"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
-  <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".<br>
-  <br>&mdash; Giorgio Parisi, premio Nobel per la Fisica 2021</em></h3>
+  <h3 class="fragment" style="color:#FFFFFF; font-size: 40px;"><em>“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”
+  <br>&mdash; Albert Einstein</em></h3>
 </section>
 
 ---
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+{{< slide background-image="book_bkg.jpg" background-opacity="0.8" >}}
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.7" data-transition="zoom">
   <h2 style="color:#FFFFFF;" class="r-fit-text">Il Calcolo</h2>
@@ -147,7 +147,7 @@ slides:
 
 ---
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+{{< slide background-image="book_bkg.jpg" >}}
 
 <section data-transition="convex">
 <h2 style="color:#3B2F2F; font-size:120pt">Funzioni</h2>

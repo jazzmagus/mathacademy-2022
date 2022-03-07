@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
+  theme_day: minimal
+  theme_night: minimal
   font: rose
   font_size: m
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/jazzmagus/mathacademy_2022'
     content_dir: content
     branch: master
   avatar:
