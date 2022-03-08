@@ -16,11 +16,11 @@ menu:
 weight: 50
 ---
 
-{{< toc >}}
-
 > ☆ **scadenza**: 30 marzo 2022
 
 ![ex2_img](../ex2_img.png)
+
+{{% toc %}}
 
 Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' più vicina alla realtà, in quanto
 
@@ -49,13 +49,13 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-<h2>introduzione</h2>
+## introduzione
 
 - Innanzitutto, <mark>che tipo di operazione compiamo quando utilizziamo il calcolo letterale?</mark>
   - Con il **calcolo letterale** si utilizzano dei **simboli** (usualmente lettere) al posto degli **elementi di un insieme** (di solito insiemi numerici), per sottolineare che non stiamo indicando nessun elemento in particolare, ma uno generico. 
   - Stiamo perciò facendo un’affermazione che vale contemporaneamente per tutti gli elementi di un insieme, non di un solo elemento specifico. 
 
-<h3>Utilità del Calcolo Letterale:</h3>
+### Utilità del Calcolo Letterale:
 
 - In alcune occasioni sostituire simboli ai numeri aiuta a semplificare i conti. 
 - Sostituire a dei numeri un'unica semplice lettera può permettere di svolgere molti calcoli simili una volta sola, oppure evitare di dover effettuare conti con numeri di molte cifre.
@@ -67,7 +67,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-<h2>Alcune importanti definizioni:</h2>
+### Alcune importanti definizioni:
 
 {{% callout note %}}
 
@@ -88,7 +88,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-<h2>Monomi</h2>
+## Monomi
 
 {{% callout note %}}
 
@@ -128,38 +128,38 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-<h2>Proprietà e operazioni con i monomi:</h2>
+## Proprietà e operazioni con i monomi:
 
 >**nota**:<br><em>In una espressione algebrica il punto utilizzato per indicare l'operazione di moltiplicazione viene spesso omesso, quindi l'espressione algebrica $xyz^2$ ha il significato di $x \cdot y \cdot z^2$.</em>
 >
 >Un monomio si dice **ridotto in forma normale** quando è scritto come prodotto di **un solo** fattore numerico, detto **coefficiente numerico**, e di potenze letterali con basi diverse. Il complesso delle lettere che compaiono nel monomio ridotto a forma normale ne costituisce la **parte letterale**.
 
-<h3>Operazioni con i monomi</h3>
+### Operazioni con i monomi
 
-<h4>Somma algebrica di monomi:</h4>
+#### Somma algebrica di monomi:
 
 - i monomi devono essere **simili** per poter essere sommati algebricamente:
   - $$3xy^2 - 8xy^2 + xy^2$$
   - $$- \dfrac{1}{2}a^2b + \dfrac{2}{3}a^2b$$
   - $$- 6x + 5x^2y + 4x - 3x^2y$$
 
-<h4>Prodotto tra monomi</h4>
+#### Prodotto tra monomi
 
 - si sommano gli esponenti: $$(6xy^3z^2) \cdot (- \dfrac{1}{3}y^2z) = -2xy^5z^3$$
 
-<h4>Elevamento a potenza</h4>
+#### Elevamento a potenza
 
 - si **moltiplicano** gli esponenti, come per le potenze numeriche:
   - $$\{[(-2a^2b)^2]^3\}^2$$
 
-><h3>Generalizzando</h3>
+### Generalizzando
 >
 >- Se voglio comprare delle scarpe che costano $50$ euro e sono scontate del $12$%, mi interessa scoprire quanto devo pagare, non fare conti astratti.
 >- Ma se sono un commerciante che ogni anno vende un certo numero di paia di scarpe, e devo calcolare quali sconti fare per avere un certo guadagno e aumentare le vendite, è piú utile che egli faccia dei conti riapplicabili in ogni occasione, anziché perdere tempo a ripetere gli stessi procedimenti ogni volta.
 
 ---
 
-<h2>Polinomi</h2>
+## Polinomi
 
 {{% callout alert %}}
 
@@ -179,7 +179,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-<h4>grado di un polinomio</h4>
+#### grado di un polinomio
 
 > **definizione**:<br> Il **grado complessivo** (o semplicemente grado) di un polinomio è il massimo dei gradi complessivi dei suoi termini. Si chiama, invece, grado di un polinomio rispetto ad una data lettera l’esponente maggiore con cui quella lettera compare nel polinomio, dopo che è stato ridotto a forma normale.
 >
