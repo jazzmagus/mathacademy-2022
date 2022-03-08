@@ -18,7 +18,7 @@ weight: 50
 
 {{< toc >}}
 
-> ☆ **scadenza**: 30 ottobre 2021
+> ☆ **scadenza**: 30 marzo 2022
 
 ![ex2_img](../ex2_img.png)
 
