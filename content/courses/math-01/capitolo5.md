@@ -63,7 +63,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 1. Se si devono effettuare molti calcoli dalla stessa struttura, ma con numeri diversi, è utile fare i calcoli una volta sola, sostituendo ai numeri un simbolo, e poi sostituire ai simboli i numeri, così da ottenere i risultati voluti.
 2. Ma oltre a questo vantaggio, _sostituire lettere a numeri permette di compiere dei conti e arrivare a dei risultati che valgono per un’intera classe di elementi_, e non per uno solo.
-3. Un particolare pregio del calcolo letterale è poi quello di non dover utilizzare la calcolatrice. Infatti, evitare di svolgere ogni possibile conto numerico immettendo i dati in un calcolatore elettronico può, in alcune occasioni, ==far risparmiare molto tempo, evitare errori e aiutare a comprendere a fondo la situazione che si sta trattando.== 
+3. Un particolare pregio del calcolo letterale è poi quello di non dover utilizzare la calcolatrice. Infatti, evitare di svolgere ogni possibile conto numerico immettendo i dati in un calcolatore elettronico può, in alcune occasioni, <mark> far risparmiare molto tempo, evitare errori e aiutare a comprendere a fondo la situazione che si sta trattando.</mark>
 4. Il calcolo letterale permette, quindi, di risolvere problemi tra loro simili, una sola volta.
 
 ---
@@ -90,22 +90,28 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 ---
 
 ## Monomi
->**definizione**: 
+
+{{% callout note %}}
+
+>**definizione**:
 >Un **monomio** è una espressione algebrica nella quale:
 >- compaiono soltanto operazioni di moltiplicazione ed elevamento a potenza;
 >- Gli esponenti delle variabili sono **numeri naturali**
 
-#### Grado **complessivo** di un monomio:
->**definizione**: 
->Dato un monomio non nullo, si definisce **grado** (o **grado complessivo**) del monomio la somma degli esponenti di tutte le lettere che vi compaiono.
+{{% /callout %}}
+#### Grado **complessivo** di un monomio
 
+{{% callout alert %}}
+
+>**definizione**:
+>Dato un monomio non nullo, si definisce **grado** (o **grado complessivo**) del monomio la somma degli esponenti di tutte le lettere che vi compaiono.
+>
 >sono monomi:
 >- $7x^3yz^4 \qquad - \dfrac {1}{2} a^2bc^4 \qquad 3a(-2)ab^3 \qquad \sqrt{2}st^2 \qquad v = \dfrac{s}{t}$
-
 >non sono monomi:
-
 >-  $7x^3yz^{-4} \qquad - \dfrac {1}{2} a^2bc^4 + \dfrac{5}{6}a^2c\qquad 3 \dfrac{a}{b^3} \qquad 2 \sqrt{s}$
 
+{{% /callout %}}
 #### Grado di un monomio rispetto ad una variabile:
 >**definizione**: 
 >Dato un monomio non nullo, si definisce **grado** del monomio **rispetto ad una lettera**, l'esponente con cui compare quella lettera all'interno del monomio, una volta ridotto in **forma normale**
