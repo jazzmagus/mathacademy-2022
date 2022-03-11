@@ -1,4 +1,12 @@
----
+<!-- vscode-markdown-toc -->
+* 1. [Learn](#Learn)
+* 2. [Quiz](#Quiz)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->---
 title: Visualization
 date: '2021-01-01'
 type: book
@@ -6,17 +14,18 @@ weight: 30
 highlight: true
 ---
 
+
 Learn how to visualize data with Plotly.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
 
-## Learn
+##  1. <a name='Learn'></a>Learn
 
 {{< youtube hSPmj7mK6ng >}}
 
-## Quiz
+##  2. <a name='Quiz'></a>Quiz
 
 {{< spoiler text="When is a heatmap useful?" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

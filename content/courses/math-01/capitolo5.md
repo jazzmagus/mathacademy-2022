@@ -3,7 +3,7 @@ title: 5. Monomi e Polinomi
 linktitle: Capitolo 5 monomi e polinomi
 abstract: "Il calcolo letterale cambia cmpletamente la prospettiva con la quale guardiamo al calcolo..."
 toc: true
-type: docs
+type: book
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 slides: capitolo5
@@ -16,11 +16,13 @@ menu:
 weight: 50
 ---
 
-> ☆ **scadenza**: 30 marzo 2022
+☆ **scadenza**: 30 marzo 2022
 
-![ex2_img](../ex2_img.png)
+---
 
-{{% toc %}}
+{{< toc >}}
+
+![ex2_img](../sliding-rule.jpg)
 
 Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' più vicina alla realtà, in quanto
 
@@ -107,16 +109,16 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 <h4>Grado complessivo di un monomio</h4>
 
-{{% callout alert %}}
+{{% callout info %}}
 
 >**definizione**:<br>
 ><span style="color:orange">Dato un monomio non nullo, si definisce **grado** (o **grado complessivo**) del monomio la somma degli esponenti di tutte le lettere che vi compaiono.</span>
 
 {{% /callout %}}
 
-<h4>Grado di un monomio rispetto ad una variabile:</h4>
+#### Grado di un monomio rispetto ad una variabile:
 
-{{% callout alert %}}
+{{% callout info %}}
 
 >**definizione**:<br>
 ><span style="color:orange">Dato un monomio non nullo, si definisce **grado** del monomio **rispetto ad una lettera**, l'esponente con cui compare quella lettera all'interno del monomio, una volta ridotto in **forma normale**</span>
@@ -153,7 +155,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
   - $$\{[(-2a^2b)^2]^3\}^2$$
 
 ### Generalizzando
->
+
 >- Se voglio comprare delle scarpe che costano $50$ euro e sono scontate del $12$%, mi interessa scoprire quanto devo pagare, non fare conti astratti.
 >- Ma se sono un commerciante che ogni anno vende un certo numero di paia di scarpe, e devo calcolare quali sconti fare per avere un certo guadagno e aumentare le vendite, è piú utile che egli faccia dei conti riapplicabili in ogni occasione, anziché perdere tempo a ripetere gli stessi procedimenti ogni volta.
 
@@ -161,10 +163,10 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ## Polinomi
 
-{{% callout alert %}}
+{{% callout info %}}
 
 >**definizione**:<br>
-><span style="color:orange">**definizione**: Un **polinomio** è una **somma algebrica** di **monomi**, non simili.</span>
+><span style="color:orange">**definizione**: <br> Un **polinomio** è una **somma algebrica** di **monomi**, non simili.</span>
 
 {{% /callout %}}
 
@@ -179,7 +181,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-#### grado di un polinomio
+### grado di un polinomio
 
 > **definizione**:<br> Il **grado complessivo** (o semplicemente grado) di un polinomio è il massimo dei gradi complessivi dei suoi termini. Si chiama, invece, grado di un polinomio rispetto ad una data lettera l’esponente maggiore con cui quella lettera compare nel polinomio, dopo che è stato ridotto a forma normale.
 >
@@ -214,8 +216,17 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ## Prodotti Notevoli
 
+### introduzione
+
+I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo utilizzati di frequente è conveniente imparare a ricavare facilmente per non doverli imparare a memoria - che non serve.
+### a cosa servono
+
+> 
+
+### come ricavarli
+
 ## Divisione tra polinomi
 
-## esempi
+### esempi
 
 ## conclusioni
