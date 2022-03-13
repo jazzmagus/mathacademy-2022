@@ -54,12 +54,12 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 ## introduzione
 
 - Innanzitutto, <mark>che tipo di operazione compiamo quando utilizziamo il calcolo letterale?</mark>
-  - Con il **calcolo letterale** si utilizzano dei **simboli** (usualmente lettere) al posto degli **elementi di un insieme** (di solito insiemi numerici), per sottolineare che non stiamo indicando nessun elemento in particolare, ma uno generico. 
-  - Stiamo perciò facendo un’affermazione che vale contemporaneamente per tutti gli elementi di un insieme, non di un solo elemento specifico. 
+  - Con il **calcolo letterale** si utilizzano dei **simboli** (usualmente lettere) al posto degli **elementi di un insieme** (di solito insiemi numerici), per sottolineare che non stiamo indicando nessun elemento in particolare, ma uno generico.
+  - Stiamo perciò facendo un’affermazione che vale contemporaneamente per tutti gli elementi di un insieme, non di un solo elemento specifico.
 
-### Utilità del Calcolo Letterale:
+## Utilità del Calcolo Letterale
 
-- In alcune occasioni sostituire simboli ai numeri aiuta a semplificare i conti. 
+- In alcune occasioni sostituire simboli ai numeri aiuta a semplificare i conti.
 - Sostituire a dei numeri un'unica semplice lettera può permettere di svolgere molti calcoli simili una volta sola, oppure evitare di dover effettuare conti con numeri di molte cifre.
 
 1. Se si devono effettuare molti calcoli dalla stessa struttura, ma con numeri diversi, è utile fare i calcoli una volta sola, sostituendo ai numeri un simbolo, e poi sostituire ai simboli i numeri, così da ottenere i risultati voluti.
@@ -69,7 +69,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-### Alcune importanti definizioni:
+## Alcune importanti definizioni
 
 {{% callout note %}}
 
@@ -116,7 +116,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 {{% /callout %}}
 
-#### Grado di un monomio rispetto ad una variabile:
+Grado di un monomio rispetto ad una variabile
 
 {{% callout info %}}
 
@@ -130,7 +130,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-## Proprietà e operazioni con i monomi:
+## Proprietà e operazioni con i monomi
 
 >**nota**:<br><em>In una espressione algebrica il punto utilizzato per indicare l'operazione di moltiplicazione viene spesso omesso, quindi l'espressione algebrica $xyz^2$ ha il significato di $x \cdot y \cdot z^2$.</em>
 >
@@ -138,7 +138,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ### Operazioni con i monomi
 
-#### Somma algebrica di monomi:
+#### Somma algebrica di monomi
 
 - i monomi devono essere **simili** per poter essere sommati algebricamente:
   - $$3xy^2 - 8xy^2 + xy^2$$
@@ -172,7 +172,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 **sono polinomi:** $6a + 2b; \quad 5a^2b + 3b^2; \quad 6x^2 - 5y^2x - 1; \quad 7ab - 2a^2b^3 + 4$.
 
-*osserva che*:
+_osserva che_:
 
 - Se tra i termini di un polinomio non sono presenti monomi simili, il polinomio si dice in forma **normale** o **ridotto**;
 - se al contrario si presentano dei termini simili, possiamo eseguire la riduzione del polinomio sommando i termini simili.
@@ -189,22 +189,23 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 >
 >- il grado del polinomio $a^3 + 3b^2a - 4ba^2$ rispetto alla lettera $a$ è $3$ perché l’esponente più grande con cui tale lettera compare è $3$.
 
-- Un polinomio si dice **omogeneo** se tutti i termini che lo compongono sono dello *stesso grado*.
+- Un polinomio si dice **omogeneo** se tutti i termini che lo compongono sono dello _stesso grado_.
 
-- Un polinomio si dice **ordinato secondo le potenze decrescenti (*crescenti*) di una lettera**, quando i suoi termini sono ordinati in maniera tale che gli esponenti di tale lettera decrescono (*crescono*), leggendo il polinomio da sinistra verso destra.
+- Un polinomio si dice **ordinato secondo le potenze decrescenti (_crescenti_) di una lettera**, quando i suoi termini sono ordinati in maniera tale che gli esponenti di tale lettera decrescono (_crescono_), leggendo il polinomio da sinistra verso destra.
 
 - Un polinomio di grado $n$ rispetto ad una data lettera si dice **completo** se contiene tutte le potenze di tale lettera di grado inferiore a $n$, compreso il termine noto.
 
 ---
-## Proprietà dei polinomi
 
-## Operazioni con i polinomi
+<h2>Proprietà dei polinomi</h2>
 
-## somma algebrica e "differenza"
+<h2>Operazioni con i polinomi</h2>
+
+<h2>somma algebrica e "differenza"</h2>
 
 > La somma algebrica comprende anche la "sottrazione", che nel Calcolo Letterale viene interpretata come una **somma algebrica** con l'**opposto** del polinomio da sottrarre.
 
-## prodotto di un monomio per un polinomio
+<h2>prodotto di un monomio per un polinomio</h2>
 
 - Si esegue moltiplicando il monomio per ognuno dei termini del polinomio, sommando algebricamente i monomi risultanti
 - Il prodotto tra un monomio e un polinomio è certamente un **caso particolare** del prodotto tra polinomi in quanto un monomio può essere pensato come un caso particolare di polinomio, composto di un solo termine.
@@ -216,12 +217,9 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ## Prodotti Notevoli
 
-### introduzione
-
 I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo utilizzati di frequente è conveniente imparare a ricavare facilmente per non doverli imparare a memoria - che non serve.
-### a cosa servono
 
-> 
+### perchè sono così utili
 
 ### come ricavarli
 
