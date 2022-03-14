@@ -6,7 +6,7 @@ toc: true
 type: book
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-slides: capitolo5
+slides: "capitolo5"
 menu:
   math-01:
     parent: 
@@ -20,11 +20,15 @@ weight: 50
 
 ---
 
+>_On August 14, 2021, a team (DAViS) at the University of Applied Sciences of the Grisons announced completion of the computation of π to 62.8 trillion digits_
+
+---
+
 {{< toc >}}
 
 ![ex2_img](../sliding-rule.jpg)
 
-Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' più vicina alla realtà, in quanto
+Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' più vicina alla realtà, in quanto <mark style="background-color: #ABF7F7A6;">punti di discontinuità</mark>
 
 - In alcuni contesti utilizzare dei simboli per indicare generici elementi di un insieme aiuta ad esprimere delle caratteristiche di intere classi di elementi, non singoli oggetti.
 - Questo è uno degli aspetti più caratteristici della matematica, occuparsi di fare scoperte e ricavare proprietà su intere categorie di oggetti, nel nostro caso numeri, piuttosto che sui singoli.
@@ -90,7 +94,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ---
 
-## Monomi
+## 3. Monomi
 
 {{% callout note %}}
 
@@ -107,7 +111,7 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 {{% /callout %}}
 
-<h4>Grado complessivo di un monomio</h4>
+### Grado complessivo di un monomio
 
 {{% callout info %}}
 
@@ -136,23 +140,98 @@ Grado di un monomio rispetto ad una variabile
 >
 >Un monomio si dice **ridotto in forma normale** quando è scritto come prodotto di **un solo** fattore numerico, detto **coefficiente numerico**, e di potenze letterali con basi diverse. Il complesso delle lettere che compaiono nel monomio ridotto a forma normale ne costituisce la **parte letterale**.
 
-### Operazioni con i monomi
+## Operazioni con i monomi
 
-#### Somma algebrica di monomi
+### Somma algebrica di monomi
 
-- i monomi devono essere **simili** per poter essere sommati algebricamente:
+>La <mark><b>somma algebrica</b></mark> di uno o più <mark><b>monomi simili</b></mark> è un monomio, simile a quelli di partenza, che ha per coefficiente la **somma algebrica** dei coefficienti.
+
+- la **somma** di due monomi **opposti** è zero, ossia il monomio nullo
+- la **differenza** di due monomi uguali è zero, ossia il monomio nullo
+
+- <mark style="color:#C04000">i monomi devono essere **simili** per poter essere sommati algebricamente</mark>:
   - $$3xy^2 - 8xy^2 + xy^2$$
   - $$- \dfrac{1}{2}a^2b + \dfrac{2}{3}a^2b$$
   - $$- 6x + 5x^2y + 4x - 3x^2y$$
 
-#### Prodotto tra monomi
+### Riduzione dei termini simili
+
+>Una somma algebrica di più monomi può essere semplificata se tra i suoi termini vi sono dei termini simili tra loro.
+>
+>- Se i termini della somma sono monomi tutti simili tra loro si ottiene come risultato un monomio; in caso contrario si otterrà un polinomio. 
+
+{{% callout info %}}
+#### esempi
+
+65. $-2 a^{2} s^{2}+\dfrac{7}{6} a^{2} s^{2}-\dfrac{5}{27} a^{2} s^{2}+\dfrac{11}{15} a^{2} s^{2}+\dfrac{3}{10} a^{2} s^{2}+\dfrac{5}{27} a^{2} s^{2}-\dfrac{6}{5} a^{2} s^{2}$
+66. $\left(-2 x^{2} y^{3}+\dfrac{5}{2} x^{2} y^{3}-\dfrac{1}{6} x^{2} y^{3}\right)-\left(\dfrac{13}{12} x^{2} y^{3}-\dfrac{11}{4} x^{2} y^{3}+x^{2} y^{3}\right)$
+67. $\left(-\dfrac{7}{20} a+\dfrac{11}{30} a-\dfrac{7}{12} a+\dfrac{1}{15} a\right)-\left(\dfrac{3}{8} a-\dfrac{7}{20} a-\dfrac{2}{5} a\right)$
+68. $-\dfrac{2}{5} a^{3}+\dfrac{15}{8} a^{2} b-\dfrac{8}{15} a^{2}-\dfrac{3}{5} a^{3}+\dfrac{8}{15} a^{2}+a^{3}-\dfrac{7}{8} a^{2} b$
+69. $\dfrac{11}{10} s^{3} t-\dfrac{11}{10} s t^{3}+\dfrac{3}{5} s t^{3}-\dfrac{31}{35} s^{3} t-\dfrac{3}{5} s-\dfrac{3}{14} s^{3} t+\dfrac{3}{5} s+\dfrac{3}{2} t^{3}$
+70. $-\dfrac{1}{10} x y^{2}-\dfrac{1}{9} x^{2} y+\dfrac{5}{6} x y^{2}+\dfrac{4}{3}+\dfrac{1}{9} x^{2} y-\dfrac{11}{15} x y^{2}-\dfrac{5}{6}$
+71. $\dfrac{1}{6} x y+\dfrac{5}{3} x-\left[\dfrac{1}{24} x y-\left(\dfrac{1}{12} x y-\dfrac{7}{8} x y+\dfrac{1}{6} x y\right)+2 x-\dfrac{1}{3} x\right]$  
+
+---
+
+- ##### piccola _challenge_
+
+  - Alla manifestazione hanno partecipato $n$ uomini;
+  - le donne erano $100$ in più di metà degli uomini;
+  - i bambini erano il doppio degli uomini diminuito di $31$.
+- Quante persone hanno partecipato alla manifestazione?
+
+{{% /callout %}}
+### 8. Prodotto di monomi
 
 - si sommano gli esponenti: $$(6xy^3z^2) \cdot (- \dfrac{1}{3}y^2z) = -2xy^5z^3$$
 
-#### Elevamento a potenza
+### 9. Elevamento a potenza
+
+>È consigliato un ripasso delle **proprietà delle potenze**
+
+{{% callout info %}}
+
+>**definizione**: <span style="color:#8A4117">La **potenza con esponente naturale $n$ di un monomio** è un **monomio** che ha per coefficiente la potenza di esponente $n$ del coefficiente e per parte letterale la potenza di esponente $n$ della parte letterale.</span>
+>
+>- il monomio: $7x^3yz^4$
+>- è di grado $3$ rispetto a $x$, di grado $1$ rispetto a $y$ e di grado $4$ rispetto a $z$.
+
+{{% /callout %}}
+
+
+#### esempio
 
 - si **moltiplicano** gli esponenti, come per le potenze numeriche:
   - $$\{[(-2a^2b)^2]^3\}^2$$
+
+## 10. Quoziente di due monomi
+
+## 11. MCD e mcm di due o più monomi
+
+{{% callout alert%}}
+
+#### Massimo comune divisore (MCD)
+
+> Il **massimo comune divisore (MCD)** di due monomi non nulli è un monomio così formato:
+>
+> - il **coefficiente** è il MCD dei valori assoluti dei coefficienti dei monomi daati, se tali coefficienti sono tutti interi, altrimentiè $1$;
+> - la **parte letterale** è il prodotto di tutte le lettere comuni ai monomi dati, ciascuna presa una sola volta con l'esponente **minimo** con cui essa figura nei monomi dati.
+>   - tale monomio risulta **divisore** di tutti i monomi dati e, tra tutti i divisori comuni dei monomi dati, è quello di grado maggiore.
+
+{{% /callout %}}
+
+{{% callout alert%}}
+
+#### Minimo comune multiplo (mcm)
+
+> Il **minimo comune multiplo (mcm)** di due monomi non nulli è un monomio così formato:
+>
+> - il **coefficiente** è il mcm dei valori assoluti dei coefficienti dei monomi daati, se tali coefficienti sono tutti interi, altrimentiè $1$;
+> - la **parte letterale** è il prodotto di tutte le lettere, _comuni e non comuni_ ai monomi dati, ciascuna presa una sola volta con l'esponente **massimo** con cui essa figura nei monomi dati.
+>   - tale monomio risulta **divisore** di tutti i monomi dati e, tra tutti i divisori comuni dei monomi dati, è quello di grado maggiore.
+
+{{% /callout %}}
+
 
 ### Generalizzando
 
@@ -165,8 +244,7 @@ Grado di un monomio rispetto ad una variabile
 
 {{% callout info %}}
 
->**definizione**:<br>
-><span style="color:orange">**definizione**: <br> Un **polinomio** è una **somma algebrica** di **monomi**, non simili.</span>
+>**definizione**: Un **polinomio** è una **somma algebrica** di **monomi**, non simili.</span>
 
 {{% /callout %}}
 
@@ -183,7 +261,9 @@ _osserva che_:
 
 ### grado di un polinomio
 
-> **definizione**:<br> Il **grado complessivo** (o semplicemente grado) di un polinomio è il massimo dei gradi complessivi dei suoi termini. Si chiama, invece, grado di un polinomio rispetto ad una data lettera l’esponente maggiore con cui quella lettera compare nel polinomio, dopo che è stato ridotto a forma normale.
+{{% callout alert %}}
+
+> **definizione**: Il **grado complessivo** (o semplicemente grado) di un polinomio è il massimo dei gradi complessivi dei suoi termini. Si chiama, invece, grado di un polinomio rispetto ad una data lettera l’esponente maggiore con cui quella lettera compare nel polinomio, dopo che è stato ridotto a forma normale.
 >
 >- Il polinomio $2ab + 3 - 4a^2b^2$ ha grado complessivo $4$ perché il monomio con grado massimo è $- 4a^2b^2$, che è un monomio di quarto grado;
 >
@@ -195,17 +275,19 @@ _osserva che_:
 
 - Un polinomio di grado $n$ rispetto ad una data lettera si dice **completo** se contiene tutte le potenze di tale lettera di grado inferiore a $n$, compreso il termine noto.
 
+{{% /callout %}}
+
 ---
 
-<h2>Proprietà dei polinomi</h2>
+## Proprietà dei polinomi
 
-<h2>Operazioni con i polinomi</h2>
+## Operazioni con i polinomi
 
-<h2>somma algebrica e "differenza"</h2>
+## somma algebrica e "differenza"
 
 > La somma algebrica comprende anche la "sottrazione", che nel Calcolo Letterale viene interpretata come una **somma algebrica** con l'**opposto** del polinomio da sottrarre.
 
-<h2>prodotto di un monomio per un polinomio</h2>
+## prodotto di un monomio per un polinomio
 
 - Si esegue moltiplicando il monomio per ognuno dei termini del polinomio, sommando algebricamente i monomi risultanti
 - Il prodotto tra un monomio e un polinomio è certamente un **caso particolare** del prodotto tra polinomi in quanto un monomio può essere pensato come un caso particolare di polinomio, composto di un solo termine.

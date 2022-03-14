@@ -69,14 +69,18 @@ slides:
   <h2 style="color:#FFFFFF;" class="r-fit-text">Letterale</h2>
 </section>
 
+<!-- esercizi -->
+
 <section>
-  <h2 style="color:#3B2F2F">Relazione $\mathscr{R}$</h2>
-  <h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
-  <q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice <b>relazione</b> tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una <b>legge</b> che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-  <ul style="font-size:90%">
-    <li class="fragment">Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
-    <li class="fragment">In generale si scrive: $\mathscr{R}: A \longrightarrow B$ </li>
-    <li class="fragment">oppure: $\mathscr{R}: a \in A \longrightarrow b \in B$</li>
+  <h2 style="color:#3B2F2F">Esercizi</h2>
+  <ul class="r-fit-text">
+    <li class="fragment fade-in-then-semi-out">$-2 a^{2} s^{2}+\dfrac{7}{6} a^{2} s^{2}-\dfrac{5}{27} a^{2} s^{2}+\dfrac{11}{15} a^{2} s^{2}+\dfrac{3}{10} a^{2} s^{2}+\dfrac{5}{27} a^{2} s^{2}-\dfrac{6}{5} a^{2} s^{2}$</li>
+    <li class="fragment fade-in-then-semi-out">$\left(-2 x^{2} y^{3}+\dfrac{5}{2} x^{2} y^{3}-\dfrac{1}{6} x^{2} y^{3}\right)-\left(\dfrac{13}{12} x^{2} y^{3}-\dfrac{11}{4} x^{2} y^{3}+x^{2} y^{3}\right)$</li>
+    <li class="fragment fade-in-then-semi-out">$\left(-\dfrac{7}{20} a+\dfrac{11}{30} a-\dfrac{7}{12} a+\dfrac{1}{15} a\right)-\left(\dfrac{3}{8} a-\dfrac{7}{20} a-\dfrac{2}{5} a\right)$</li>
+    <li class="fragment fade-in-then-semi-out">$-\dfrac{2}{5} a^{3}+\dfrac{15}{8} a^{2} b-\dfrac{8}{15} a^{2}-\dfrac{3}{5} a^{3}+\dfrac{8}{15} a^{2}+a^{3}-\dfrac{7}{8} a^{2} b$</li>
+    <li class="fragment fade-in-then-semi-out">$\dfrac{11}{10} s^{3} t-\dfrac{11}{10} s t^{3}+\dfrac{3}{5} s t^{3}-\dfrac{31}{35} s^{3} t-\dfrac{3}{5} s-\dfrac{3}{14} s^{3} t+\dfrac{3}{5} s+\dfrac{3}{2} t^{3}$</li>
+    <li class="fragment fade-in-then-semi-out">$-\dfrac{1}{10} x y^{2}-\dfrac{1}{9} x^{2} y+\dfrac{5}{6} x y^{2}+\dfrac{4}{3}+\dfrac{1}{9} x^{2} y-\dfrac{11}{15} x y^{2}-\dfrac{5}{6}$</li>
+    <li class="fragment fade-in-then-semi-out">$\dfrac{1}{6} x y+\dfrac{5}{3} x-\left[\dfrac{1}{24} x y-\left(\dfrac{1}{12} x y-\dfrac{7}{8} x y+\dfrac{1}{6} x y\right)+2 x-\dfrac{1}{3} x\right]$</li>
   </ul>
 </section>
 
