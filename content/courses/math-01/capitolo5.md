@@ -57,6 +57,8 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 
 ## introduzione
 
+![mind map](../calcolo-letterale.png)
+
 - Innanzitutto, <mark>che tipo di operazione compiamo quando utilizziamo il calcolo letterale?</mark>
   - Con il **calcolo letterale** si utilizzano dei **simboli** (usualmente lettere) al posto degli **elementi di un insieme** (di solito insiemi numerici), per sottolineare che non stiamo indicando nessun elemento in particolare, ma uno generico.
   - Stiamo perciò facendo un’affermazione che vale contemporaneamente per tutti gli elementi di un insieme, non di un solo elemento specifico.
