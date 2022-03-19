@@ -309,6 +309,18 @@ I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo uti
 
 ## Divisione tra polinomi
 
+### divisibilità tra polinomi
+
+### Teorema del Resto
+
+### Teorema di Ruffini
+
+<video loading="lazy" width="320" height="240" controls>
+    <source src="../ruffini_vid.mp4" type="video/mp4">
+</video>
+
+#### Regola di Ruffini per la divisione
+
 ### esempi
 
 ## conclusioni
