@@ -160,9 +160,10 @@ Grado di un monomio rispetto ad una variabile
 
 >Una somma algebrica di più monomi può essere semplificata se tra i suoi termini vi sono dei termini simili tra loro.
 >
->- Se i termini della somma sono monomi tutti simili tra loro si ottiene come risultato un monomio; in caso contrario si otterrà un polinomio. 
+>- Se i termini della somma sono monomi tutti simili tra loro si ottiene come risultato un monomio; in caso contrario si otterrà un polinomio.
 
 {{% callout info %}}
+
 #### esempi
 
 65. $-2 a^{2} s^{2}+\dfrac{7}{6} a^{2} s^{2}-\dfrac{5}{27} a^{2} s^{2}+\dfrac{11}{15} a^{2} s^{2}+\dfrac{3}{10} a^{2} s^{2}+\dfrac{5}{27} a^{2} s^{2}-\dfrac{6}{5} a^{2} s^{2}$
@@ -183,6 +184,7 @@ Grado di un monomio rispetto ad una variabile
 - Quante persone hanno partecipato alla manifestazione?
 
 {{% /callout %}}
+
 ### 8. Prodotto di monomi
 
 - si sommano gli esponenti: $$(6xy^3z^2) \cdot (- \dfrac{1}{3}y^2z) = -2xy^5z^3$$
@@ -199,7 +201,6 @@ Grado di un monomio rispetto ad una variabile
 >- è di grado $3$ rispetto a $x$, di grado $1$ rispetto a $y$ e di grado $4$ rispetto a $z$.
 
 {{% /callout %}}
-
 
 #### esempio
 
@@ -233,7 +234,6 @@ Grado di un monomio rispetto ad una variabile
 >   - tale monomio risulta **divisore** di tutti i monomi dati e, tra tutti i divisori comuni dei monomi dati, è quello di grado maggiore.
 
 {{% /callout %}}
-
 
 ### Generalizzando
 
@@ -303,6 +303,7 @@ _osserva che_:
 
 I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo utilizzati di frequente è conveniente imparare a ricavare facilmente per non doverli imparare a memoria - che non serve.
 
+{{% staticref "uploads/ripasso_calc.pdf" "newtab" %}}Ripasso Prodotti Notevoli{{% /staticref %}}
 ### perchè sono così utili
 
 ### come ricavarli
