@@ -303,24 +303,18 @@ _osserva che_:
 
 I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo utilizzati di frequente è conveniente imparare a ricavare facilmente per non doverli imparare a memoria - che non serve.
 
-{{% staticref "uploads/ripasso_calc.pdf" "newtab" %}}Ripasso Prodotti Notevoli{{% /staticref %}}
-### perchè sono così utili
+{{% staticref "uploads/ripasso_calc.pdf" "newtab" %}} <i class="fa-regular fa-share-from-square"></i> - Ripasso Prodotti Notevoli{{% /staticref %}}
+### perché sono così utili
 
-### come ricavarli
+1. perché semplificano **notevolmente** i calcoli
+2. perché sono molto utilizzati: compaiono molto spesso quindi conoscerli semplifica molto la comprensione di determinati ragionamenti
+3. sono uno strumento molto potente nella **fattorizzazione polinomiale**
+### ricavarli o ricordarli?
 
+> sarà sufficiente ricavarli un paio di volte per ricordarli; eventualmente si possono ricavare facilmente.
 ## Divisione tra polinomi
 
 ### divisibilità tra polinomi
-
-### Teorema del Resto
-
-### Teorema di Ruffini
-
-<video loading="lazy" width="320" height="240" controls>
-    <source src="../ruffini_vid.mp4" type="video/mp4">
-</video>
-
-#### Regola di Ruffini per la divisione
 
 ### esempi
 

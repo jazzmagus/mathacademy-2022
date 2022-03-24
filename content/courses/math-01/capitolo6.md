@@ -44,7 +44,7 @@ weight: 60
 >
 > - Si presenta nella forma seguente:
 > $$x^2 + sx+p$$
-> - in cui le lettere $s$ e $p$, stanno ad indicare  
+> - in cui le lettere $s$ e $p$, stanno ad indicare _somma_ e _prodotto_
 
 ### Divisione polinomiale
 
@@ -58,12 +58,19 @@ weight: 60
 
 ## esercitazioni
 
->**esercizio n.1**
+>**esercizi**
 >
 >- Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
 >
->| polinomio | metodo di fattorizzazione | risultato|
-|:---|:---:|---:|
-|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
-|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
-|$81x^2 -36x + 4$| prodotti notevoli| $(9x-2)^2$|
+>
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+>1. $$81x^2 -36x + 4 = (9x-2)^2$$
+
