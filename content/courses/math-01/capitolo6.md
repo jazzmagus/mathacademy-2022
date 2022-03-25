@@ -26,6 +26,7 @@ weight: 60
 
 ---
 
+{{< toc >}}
 ## introduzione
 
 ## metodi di fattorizzazione
@@ -36,7 +37,7 @@ weight: 60
 
 ### prodotti notevoli
 
-> ref.: [ripasso prodotti notevoli](prodotti_notevoli.pdf)
+>{{% staticref "uploads/ripasso_calc.pdf" "newtab" %}} <i class="fa-regular fa-share-from-square"></i> - Ripasso Prodotti Notevoli{{% /staticref %}}
 
 ### Trinomio Notevole - di secondo grado
 

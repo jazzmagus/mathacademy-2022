@@ -34,6 +34,8 @@ Iniziamo oggi un viaggio in un mondo che ci farà vedere la matematica un po' pi
 - Questo è uno degli aspetti più caratteristici della matematica, occuparsi di fare scoperte e ricavare proprietà su intere categorie di oggetti, nel nostro caso numeri, piuttosto che sui singoli.
 - Questo bisogno di generalizzare non è sentito solo in matematica, è simile a ciò che succede in molti contesti quotidiani.
 
+![ex2_img](../calc_dark.svg)
+
 ><h4>esempio 1</h4>
 >
 >se diciamo:
