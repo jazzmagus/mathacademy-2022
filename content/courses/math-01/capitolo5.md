@@ -315,8 +315,35 @@ I **prodotti notevoli** sono soltanto dei prodotti tra polinomi che, essendo uti
 
 > sarà sufficiente ricavarli un paio di volte per ricordarli; eventualmente si possono ricavare facilmente.
 ## Divisione tra polinomi
-
 ### divisibilità tra polinomi
+
+> il concetto di **divisibilità**
+### l'algoritmo
+
+### Regola di Ruffini
+
+Divisione e Regola di Ruffini:
+### Divisione tra polinomi
+
+- Eseguire la seguente Divisione tra polinomi:
+
+>$(6x^3 - 2x^2 + 3x -1) : (2x^2 + 1)$
+>
+>**soluzione**: $Q(x) = (3x - 1); \qquad R(x) = 0$.
+
+- Qual è il quoziente $Q(x)$?
+- Qual è il Resto $R(x)$?
+- Che conclusioni puoi trarne?
+
+![mind map](../Paolo_Ruffini.jpeg)
+
+### Regola di Ruffini
+
+>Eseguiamo un classico esercizio di *fattorizzazione* utilizzando la Regola di Ruffini:
+
+- Eseguire la divisione utilizzando la Regola di Ruffini:
+$$(2x^3 - 9x + 1) : (x - 3)$$
+- **soluzione**: $$Q(x) = 2x^2 + 6x + 9; \qquad R = 28$$
 
 ### esempi
 
