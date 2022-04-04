@@ -27,6 +27,7 @@ weight: 60
 ---
 
 {{< toc >}}
+
 ## introduzione
 
 ## metodi di fattorizzazione
