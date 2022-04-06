@@ -4,7 +4,7 @@ summary: Capitolo 5
 authors: [diego fantinelli]
 tags: [calcolo_letterale]
 categories: [2022, lesson]
-date: "2019-02-05T00:00:00Z"
+date: "2022-03-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: serif
@@ -89,7 +89,6 @@ slides:
 <img class="fragment r-fit-text" src="calc-lett_mindmap.png" style="opacity:0.8;filter:alpha(opacity=40);">
 
 </section>
-
 
 <section data-background-video="archery.mp4" data-background-opacity="0.8" data-transition="convex">
   <h2 class="r-fit-text" style="color:#FFFFFF">Definizioni</h2>
@@ -180,236 +179,97 @@ slides:
 </section>
 
 ---
-
-{{< slide background-image="happiness_bgk.jpg" data-background-opacity="6">}}
-
 <section>
-  <h2 style="color:#3B2F2F" class="r-fit-text">Proprietà delle <br> funzioni</h2>
-</section>
+  ## esercizi ripasso monomi e polinomi
+  
+   Eseguiamo, se possibile, le seguenti divisioni:
+  
+  1. $\left(12 x^{4} y^{3}-3 x^{3} y^{4}+2 x^{2} y\right):\left(2 x^{2} y\right)$;
 
-<section style="text-align:left;">
-<h2 style="color:#8A4117">Funzioni INIETTIVE</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h3 style="color:#8A4117">Funzioni SURIETTIVE</h3>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzioni BIUNIVOCHE</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzioni invertibili</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h2>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzione inversa</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#3B2F2F" class="r-fit-text">osservazioni</h2>
-
-<ul style="font-size:80%;">
-  <li>In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</li>
-  <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
-  <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
-  <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
-</ul>
 </section>
 
 ---
 
-{{< slide background-image="happiness_bgk.jpg" data-background-opacity="6" >}}
+<section>
+  - La divisione $\left(12 x^{4} y^{3}-3 x^{3} y^{4}+2 x^{2} y\right):\left(2 x^{2} y\right)$ è possibile, perché ogni termine del dividendo contiene le variabili del divisore, con esponente maggiore o uguale.
+  
+  > Non è necessario, invece, che i coefficienti dei termini del dividendo siano multipli del coefficiente del divisore.
+  
+- Dividiamo per $2 x^{2} y$ ogni termine del polinomio dividendo:
 
-<section data-transition="convex">
-  <h3 style="color:#3B2F2F" class="r-fit-text">Funzioni <br> notevoli</h3>
-  <h3 style="color:#3B2F2F" class="r-fit-text">e loro rappresentazioni grafiche</h3>
+  $$
+  \begin{aligned}
+  &12 x^{4} y^{3}:\left(2 x^{2} y\right)=6 x^{4-2} y^{3-1}=6 x^{2} y^{2} \
+  &-3 x^{3} y^{4}:\left(2 x^{2} y\right)=-\frac{3}{2} x^{3-2} y^{4-1}=-\frac{3}{2} x y^{3} \
+  &2 x^{2} y:\left(2 x^{2} y\right)=1 .
+  \end{aligned}
+  $$
+
 </section>
-
-<section data-transition="convex">
-  <h3 style="color:#3B2F2F" class="r-fit-text">Il Diagramma <br> cartesiano</h3>
-
-</section>
-
-<section data-transition="convex">
-<h3 class="fragment" style="text-align:left">proporzionalità lineare</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section data-transition="convex">
-<h3 class="fragment" style="text-align:left">proporzionalità quadratica</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section data-transition="convex">
-<h3 class="fragment" style="text-align:left">proporzionalità inversa</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
----
-
-{{< slide background-image="book_bkg.jpg" data-background-opacity="6" >}}
-
-<section data-transition="convex">
-<h2 class="r-fit-text">funzioni goniometriche</h2>
-<img class="fragment" src="trig-fun02.png" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
-</section>
-
-<section data-transition="convex">
-<h2 class="r-fit-text" style="text-align:left">La circonferenza goniometrica</h2>
-<img class="fragment" src="trig-func0.gif" style="opacity:0.6;filter:alpha(opacity=40);" width="90%">
-</section>
-
-<section data-transition="convex">
-<h2 class="fragment" style="text-align:left">la funzione <em>seno</em></h2>
-<h4 class="fragment" style="text-align:left">❖ Consideriamo la seguente funzione: $y=\sin{x}$</h4>
-<img class="fragment r-fit-text" src="sin.png" style="opacity:0.8;filter:alpha(opacity=40);">
-<p class="fragment">$$y=f(x)=sinx$$</p>
-</section>
-
-<section data-transition="convex">
-<h2 class="fragment" style="text-align:left">la funzione <em>babau</em></h2>
-<h4 class="fragment" style="text-align:left">❖ Consideriamo la seguente funzione: $y=\sin{x}$</h4>
-<img class="fragment r-fit-text" src="trig-func0.gif" style="opacity:0.8;filter:alpha(opacity=40);">
-<p class="fragment">$$y=f(x)=sinx$$</p>
-</section>
-
-<section data-transition="convex">
-<h2 class="fragment" style="text-align:left">la funzione <em>coseno</em></h2>
-<h4 class="fragment" style="text-align:left">❖ Consideriamo la seguente funzione: $y=\cos{x}$</h4>
-<img class="fragment" src="cosx.png" style="opacity:0.8;filter:alpha(opacity=40);" width="120%">
-<p class="fragment">$$y=f(x)=sinx$$</p>
-</section>
-
-<section data-transition="convex">
-<h2 class="fragment" style="text-align:left">La funzione <em>tangente</em></h2>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: $y=\tan{x}$</em></h4>
-<img class="fragment" src="tgx.png" style="opacity:0.8;filter:alpha(opacity=40);" width="80%">
-<p class="fragment">$$y=f(x)=tanx$$</p>
-</section>
-
----
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.7" data-transition="zoom">
-  <h2 class="fragment; r-fit-text" style="color:#F3E5AB">esempi di funzione</h2>
-  <h2 style="color:#F3E5AB" class="fragment r-fit-text">nella vita reale</h2>
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.3" data-transition="convex">
-  <h2 class="fragment" style="background-color:powderblue;">l'elettrocardiogramma</h2>
-  <h3 class="fragment" style="background-color:powderblue;">che cos'é l'elettrocardiogramma</h3>
-  <h4 class="fragment" style="color:charcoal; text-align:left; font-size:90%"><em>L’elettrocardiogramma (ECG) è un esame cardiologico di tipo strumentale che viene eseguito in ambulatorio, o al letto del paziente qualora si trovi in ospedale o a domicilio, mediante il quale è possibile registrare e visualizzare graficamente l'attività elettrica del cuore. <br><b>Dalla successiva valutazione della rappresentazione grafica, il cardiologo ottiene indicazioni utili sullo stato del cuore.</b></em></h4>
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.3" data-transition="convex">
-  <h2 class="fragment" style="background-color:powderblue;">matematicamente</h2>
-  <img class="fragment" src="heart.png" style="color:" width="500">
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.3" data-transition="convex">
-  <h2 class="fragment" style="background-color:powderblue;">l'elettrocardiogramma</h2>
-  <h4 class="fragment" style="background-color:powderblue;">A che cosa serve l'ECG?</h4>
-  <ul style="color:charcoal; text-align:left; font-size:85%">
-    <li class="fragment" style="font-size:85%">L’elettrocardiogramma fornisce numerose informazioni sullo stato di salute del cuore: consente infatti di misurare la frequenza cardiacaindividuare eventuali aritmie e turbe della conduzione, sospettare un aumento di dimensione delle camere cardiache, e squilibri elettrolitici.</li>
-    <li class="fragment" style="font-size:85%">L’elettrocardiogramma si modifica anche in presenza di numerose condizioni patologiche cardiache, come per esempio l’ischemia acuta, la pericardite, la sindrome di Tako-Tsubo, le cardiomiopatie e in esiti di precedenti infarti.</li>
-  </ul>
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.3" data-transition="convex">
-  <h2 style="background-color:powderblue;">l'elettrocardiogramma</h2>
-  <h4 style="background-color:powderblue;">A che cosa serve l'ECG?</h4>
-  <ul class="fragment" style="color:charcoal; text-align:left; font-size:85%">
-    <li class="fragment" style="font-size:85%">L’elettrocardiogramma può essere eseguito a riposo (standard), con il paziente sdraiato sul lettino, o sotto sforzo, con il paziente che cammina su un tapis roulant o pedala su una cyclette. L’elettrocardiogramma sotto sforzo permette di individuare patologie cardiache latenti.</li>
-    <li class="fragment" style="font-size:85%">Vi è poi un terzo tipo di elettrocardiogramma, denominato elettrocardiogramma secondo Holter o dinamico, che offre la possibilità di monitorare la funzione cardiaca nell'arco di un certo periodo di tempo, in genere 24 ore.</li>
-  </ul>
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.3" data-transition="convex">
-  <h4 class="fragment" style="background-color:powderblue; text-align:left">le variabili coinvolte:</h4>
-  <ul class="fragment r-fit-text" style=" color:charcoal; font-size:65%">
-    <li><em>Onda P</em>: piccola onda positiva, indica la depolarizzazione atriale (attivazione elettrica degli atri)</li>
-    <li><em>Intervallo PR</em>: distanza fra l’inizio dell’onda P e l’inizio del complesso QRS, rappresenta l’intervallo necessario perché la depolarizzazione atriale raggiunga i ventricoli</li>
-    <li><em>Complesso QRS</em>: rappresenta la depolarizzazione ventricolare</li>  
-    <li><em>Onda Q</em>: prima deflessione negativa</li>
-    <li><em>Onda R</em>: prima deflessione positiva</li>
-    <li><em>Onda S</em>: seconda deflessione negativa</li>
-    <li><em>Tratto ST</em>: distanza fra l’onda S e l’inizio dell’onda T, rappresenta l’intervallo fra la depolarizzazione ventricolare e l’inizio della ripolarizzazione ventricolare (ripristino delle condizioni elettriche di base)</li>
-    <li><em>Onda T</em>: prima onda positiva successiva al complesso QRS, rappresenta la ripolarizzazione ventricolare</li>
-    <li><em>Intervallo QT:</em> distanza fra l’inizio del QRS e la fine dell’onda T, rappresenta l’intera attività elettrica ventricolare</li>
-    <li><em>Onda U:</em> onda positiva successiva all’onda T, non sempre presente, rappresenta la ripolarizzazione delle fibre del Purkinje</li>
-  </ul>
-</section>
-
-<section data-background-image="heart_01.gif" data-background-opacity="0.4" data-transition="convex">
-  <h3 class="fragment; r-fit-text">matematicamente...</h3>
-  <ul>
-    <li class="fragment" style="font-size:80%"><em>Attualmente la tecnica più utilizzata per il riconoscimento on line del complesso QRS è quella del filtraggio digitale.</em></li>
-    <li class="fragment" style="font-size:80%"><em>Un filtro è una trasformazione lineare che al segnale $x_{t}$ associa un segnale $y_{t}$ definito da una funzione del tipo:</em></li>
-  </ul>
-  <h3 class="fragment" style="color:#7E391C;">$$ y_{t}=\sum_{k=1}^{n} f(k) y_{t-k}+\sum_{i=1}^{m} g(i) x_{t-i}$$</h3>
-</section>
-
----
-
-{{< slide background-image="happiness_bgk.jpg" data-background-opacity="6">}}
 
 <section>
-<h3 class="fragment">La funzione Happiness</h3>
-<p class="fragment r-fit-text" style="color:#F14926;">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
+  Il risultato è quindi:
+  $$
+  \left(12 x^{4} y^{3}-3 x^{3} y^{4}+2 x^{2} y\right):\left(2 x^{2} y\right)=6 x^{2} y^{2}-\frac{3}{2} x y^{3}+1 .
+  $$
+  <mark class="hltr-green">Verifica</mark> :
+  $$
+  \underbrace{\left(6 x^{2} y^{2}-\frac{3}{2} x y^{3}+1\right)}_{\text {quoziente }} \cdot \underbrace{2 x^{2} y}_{\text {divisore }}=\underbrace{12 x^{4} y^{3}-3 x^{3} y^{4}+2 x^{2} y}_{\text {dividendo }} .
+  $$
 
-<p>
-<ul style="font-size:80%;">
-  <li class="fragment">$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
-  <li class="fragment">$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
-  <li class="fragment">$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
-  <li class="fragment">$EVj$ è la valutazione del rischio su di un processo $j$;</li>
-  <li class="fragment">$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
-</ul>
-</p>
+</section>
+
+---
+
+<section>
+  ### esercizio 2
+  $$\left(5 a b^{2}+3 a^{3} b^{3}-3 a^{4}\right):\left(2 a^{2} b^{2}\right)$$
+
+- La divisione $\left(5 a b^{2}+3 a^{3} b^{3}-3 a^{4}\right): 2 a^{2} b^{2}$ non è possibile per due motivi:
+- $5 a b^{2}$ ha grado rispetto ad $a$ minore di $2 a^{2} b^{2}$;
+- $-3 a^{4}$ ha grado rispetto a $b$ minore di $2 a^{2} b^{2}$ (il grado rispetto a $b$ di $-3 a^{4}$ è 0 ).
+
+</section>
+
+<section>
+  ### prodotti notevoli
+  
+#### Esercizi
+  
+- $(2 a-b)^{2}-(3 a+b)(a-2 b)+5 a^{2}-a b$
+- $(x+y)^{2}-2 y(x-y)-(x+y)(y-x)$
+- $\left(a^{2}+b^{2}\right)\left(a^{2}-b^{2}\right)-\left(a^{2}+b^{2}\right)^{2}+2 a^{2}\left(a^{2}+b^{2}\right)$
+- $(x+1)^{3}+3(x+1)^{2}+3(x+1)+1$
+
+</section>
+
+<section data-transition="convex">
+- $2(y-3 x)^{2}+2(2 x+y)(y-2 x)-9 x^{2}-2 x y-(2 y-x)^{2}$
+- $\left(x^{2}-3 y^{2}\right)\left(2 x^{2}+y^{2}\right)-\left(x^{2}+2 y^{2}\right)\left(x^{2}-2 y^{2}\right)-\left(x^{2}+y^{2}\right)^{2}$
+- $[(2-a)(2+a)-2]^{3}-\left(2 a^{2}-b+1\right)^{2}+a^{2}\left(a^{2}+4\right)^{2}+\left(b-2 a^{2}\right)^{2}$
+- $\left(-x+y^{2}\right)\left(-x-y^{2}\right)+(-2 y)^{2}(x-y)^{2}+8 x y^{3}-4 x^{2}\left(1+y^{2}\right)$
+</section>
+
+<section data-transition="convex">
+  - $(x+2)^{2}-3(x+2)(x-2)+(x-2)^{3}-x^{2}(x-8)$
+  - $(x-2 y)^{3}-x(x-2 y)(x+2 y)+2 x y(3 x+4 y)-(-2 y)^{3}$
+  - $a\left(a^{2}-3\right)+\left(1+6 a+a^{3}\right)-(a-1)^{3}+(-a-1)^{3}$
+  - $\left\{\left[x^{3}-y^{3}+(x+y)^{3}+2 x^{2} y-x(2 x+3 y)(x+y)\right]^{2}-2\right}^{3}$
+</section>
+
+--
+
+<section>
+  - $[a+3+(b-1)(2 b+a+3)+b(b+2 a-1)] a-(b+a)^{3}$
+  - $\left(x^{2}-2 x y+3 y^{2}\right)\left(x^{2}+2 x y+3 y^{2}\right)-2\left(x y-x^{2}\right)^{2}-4 x^{3} y+x^{4}$
+  - $\left[(x-y)^{2}(x+y)^{2}-x^{2}\left(x^{2}-2 y^{2}\right)\right]: \frac{(-y)^{2}}{2} \cdot(x+y)$
+  - $\left[(x+3 a)^{2}+(2 x-3 a)^{2}+4\left(x-\frac{3}{2} a\right)(3 a+x)\right]:(-3)^{2}-(x-2)^{2}$
+</section>
+
+<section>
+  - $\left(1-2 a^{2}\right)\left(1+2 a^{2}\right)+\left(5 a^{2}-1\right)^{2}-2\left(1-4 a^{2}\right)^{2}-\left[-2 a^{4}-\left(3 a^{2}-1\right)^{2}\right]$
+  - $\left[(x+y)^{3}-(x+y)\left(x^{2}-x y+y^{2}\right)\right]^{2}-2 x y(-3 x y)^{2}$
+  - $\left[x^{2}-(x-y)(x+y)+y^{3}\right]^{3}-(1+y)^{3} \cdot\left[\left(y^{3}+1\right)\left(y^{3}-1\right)+\left(y^{2}+x^{2}\right)^{0}\right]$
 </section>
 
 ---
