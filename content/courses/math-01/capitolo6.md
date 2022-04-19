@@ -85,26 +85,10 @@ $(2x^3 - 9x + 1) : (x - 3)$
 - Si può anche dire che un polinomio è divisibile per un monomio o per un altro polinomio **sse** il resto della divisione è $0$
 - **Divisibilità** di un polinomio per un monomio:
 Un polinomio è **divisibile** per un **monomio** non nullo se ogni suo termine è divisibile per tale monomio.
-
-### trinomio notevole di secondo grado
-
-### teorema del Resto
-
-### teorema di Ruffini
-
-## esercitazioni
+# esercitazioni
 
 >**esercizi**
 >
 >- Fattorizza i seguenti polinomi utilizzando il metodo che ritieni più appropriato:
 >
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
->1. $$81x^2 -36x + 4 = (9x-2)^2$$
 >1. $$81x^2 -36x + 4 = (9x-2)^2$$
