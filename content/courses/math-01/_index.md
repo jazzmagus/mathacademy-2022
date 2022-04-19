@@ -30,17 +30,3 @@ menu:
 >La conoscenza è **infinita** e ognuno di noi può contenerne solo una parte, per questo motivo siamo diversi, mentre siamo tutti ignoranti rispetto alla totalità della conoscenza, e questo ci rende **uguali**.
 >
 >-- Piergiorgio Odifreddi
-
-![overview_img](startline.png)
-
----
-
-## contenuti extra
-
-- [La bellezza dei numeri - la successione di Fibonacci](https://youtu.be/cCJU5By_b8U)
-
----
-
-{{< youtube cCJU5By_b8U>}}
-
-<br>
