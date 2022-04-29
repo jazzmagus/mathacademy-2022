@@ -20,6 +20,9 @@ weight: 60
 
 ---
 
+[Ruffini](../ruffini_vid.mp4)
+
+
 >### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
 >
 >#### - Lucio Anneo Seneca
