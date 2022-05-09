@@ -5,6 +5,7 @@ toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
+slides: "capitolo6"
 menu:
   math-01:
     parent: 
@@ -22,6 +23,7 @@ weight: 60
 
 [Ruffini](../ruffini_vid.mp4)
 
+[esercizi di ripasso]({{< relref "../../slides/ex_ripasso/index.md" >}})
 
 >### *"Non esiste vento favorevole per il marinaio che non sa dove andare"*
 >
