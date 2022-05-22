@@ -45,7 +45,9 @@ weight: 60
 
 >{{% staticref "uploads/ripasso_calc.pdf" "newtab" %}} <i class="fa-regular fa-share-from-square"></i> - Ripasso Prodotti Notevoli{{% /staticref %}}
 
-### Trinomio Notevole - di secondo grado
+### Trinomio Particolare di secondo grado
+
+[esempio svolto]({{< relref "/publication/trinomio_particolare" >}})
 
 > Si tratta semplicemente di un **trinomio di secondo grado, completo**, con una caratteristica che lo rende *particolare* - infatti viene chiamato anche **trinomio particolare**
 >
